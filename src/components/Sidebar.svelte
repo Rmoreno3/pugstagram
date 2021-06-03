@@ -11,3 +11,13 @@
     <Footer />
   </div>
 </div>
+
+<style>
+  .Sidebar {
+    padding: 1em 0 0 0;
+  }
+
+  .Sidebar-container {
+    position: fixed;
+  }
+</style>
